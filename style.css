@@ -1,0 +1,33 @@
+body{
+    font-family: 'Shizuru', cursive;
+    background: linear-gradient(to top right, #ff33cc 27%, #ffff66 79%);
+}
+
+.header_div{  
+  color:red ;
+  font-weight: bold;
+}
+
+.header_div p{  
+    color:blueviolet ;
+    font-weight: bold;
+    letter-spacing: 2px;
+font-size: large;
+  }
+
+  .main_div button{
+     margin-top: 30px; 
+     width: 130px;
+     font-weight: bolder;
+     letter-spacing: 4px;
+  }
+
+  .copy_right_footer{
+     position: fixed; 
+     color:blueviolet;
+     bottom: 0;
+     width: 100%;
+     font-size: 30px;
+     line-height: 3;
+     text-align: center;
+  }
